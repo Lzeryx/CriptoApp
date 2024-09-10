@@ -51,8 +51,6 @@ This is a complex and tedious process to explain in text. If you want to underst
 
 ## Video Demo
 #### Video demo: https://youtu.be/Xq-zVaTCa4c?si=4soX1LyEGl-GWVrz
-[![](https://markdown-videos.deta.dev/youtube//Xq-zVaTCa4c&t)](https://youtu.be/Xq-zVaTCa4c?si=4soX1LyEGl-GWVrz)
-#### Video demo: 
 
 ## Developer
 This project has been created by Carlos Nicolás González González (GitHub user: lzeryx).
