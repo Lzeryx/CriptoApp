@@ -1,0 +1,6 @@
+customtkinter
+tkinter
+PIL
+shutil
+cv2
+pyzbar
