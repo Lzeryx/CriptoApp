@@ -50,7 +50,8 @@ While encrypting, CriptoApp stores some information hidden in the new document, 
 This is a complex and tedious process to explain in text. If you want to understand better how this works, feel free to review the code and [contact me](#contact) if you have any questions or issues.
 
 ## Video Demo
-
+#### Video demo: https://youtu.be/Xq-zVaTCa4c?si=4soX1LyEGl-GWVrz
+[![](https://markdown-videos.deta.dev/youtube//Xq-zVaTCa4c&t)](https://youtu.be/Xq-zVaTCa4c?si=4soX1LyEGl-GWVrz)
 #### Video demo: 
 
 ## Developer
