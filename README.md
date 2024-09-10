@@ -1,8 +1,8 @@
 > [!NOTE]  
 > This is a project created as the final project of CS50p: "Introduction to Python" by Carlos Nicolás González González.
-
-![Logo CriptoApp](images/logo.png)
-
+<p align="center">
+  <img src=images/logo.png />
+</p>
 # CriptoApp
 
 CriptoApp is an application that encrypts and decrypts `.txt` documents using a new cryptography technology: `PBL Cryptography`. This technology allows the user to share and save sensitive information in a safe way.
