@@ -34,7 +34,7 @@ Both the encrypt and decrypt modes are very similar. Both have a frame, which is
 #### Barcode Scanner
 The program has an integrated barcode scanner to make the barcode entry easier. To use this feature, press the `barcode` button (7) and use the webcam to scan the barcode you want to use.
 
-![Image of the user interface](images/Image_interface.png)
+![Image of the user interface](images/Image_interface.PNG)
 
 #### Error Messages
 When encrypting or decrypting your document, if you do not correctly fill in the fields, the program will display an error message. Follow the instructions and fill in the fields correctly to avoid problems.
