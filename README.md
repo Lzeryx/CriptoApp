@@ -1,5 +1,3 @@
-> [!NOTE]  
-> This is a project created as the final project of CS50p: "Introduction to Python" by Carlos Nicolás González González.
 <p align="center">
   <img src=images/logo.png />
 </p>
